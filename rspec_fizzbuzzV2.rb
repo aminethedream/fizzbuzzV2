@@ -1,6 +1,6 @@
 require "./fizzbuzzV2"
 
-describe "#fizzbuzzV2"
+describe "#fizzbuzzV2" do 
 	it description "test whether number 15 comes out to fizzbuzz" do 
 		expect (fizzbuzz(15)).to do eq("fizzbuzz")
 	end 
