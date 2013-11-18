@@ -1,11 +1,11 @@
-def fizzbuzz (n)
+def fizzbuzz(n)
     if n % 15 == 0
-    puts "fizzbuzz"
+     "fizzbuzz"
     elsif  n % 3 == 0 
-    puts "fizz"
+     "fizz"
     elsif n % 5 == 0
-    puts "buzz"
-        else puts n
-        end
+     "buzz"
+        else  n
+    end
 
 end
