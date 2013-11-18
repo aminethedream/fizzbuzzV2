@@ -14,5 +14,4 @@ describe "#fizzbuzzV2"
 		expect (fizzbuzz(6)).to do eq("fizz")
 	end 
 
-		end
 	end
